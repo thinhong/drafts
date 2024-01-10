@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Compound interest",
+    "section": "",
+    "text": "Let \\(P_0\\) is the initial balance, \\(r\\) is the interest rate in 1 week. The amount of money after 1 week is:\n\\[P_1 = P_0 \\times (1 + r)\\]\nAfter 2 weeks\n\\[P_2 = P_1 \\times (1 + r) = P_0 \\times (1 + r) \\times (1 + r)\\]\n\\[P_2 = P_0 \\times (1 + r)^2\\]\nAfter t weeks\n\\[P_t = P_0 \\times (1 + r)^t\\]\nThere is a trader who is very good at trading. He start with $4000. Every week he earns 5% interest. In a year (52 weeks) he will earn:\n\\[P_\\text{1 year} = P_0 \\times (1 + 0.05)^{52} = 12.6 \\times P_0\\]\nAfter 2 years (104 weeks):\n\\[P_\\text{2 years} = P_0 \\times (1 + 0.05)^{104} = 159.8 \\times P_0\\]\nIf the interest rate is 5%, let vary the interest rate from 3-5%:\n\n\nInterest rate: 3%\n1 year: 18,603\n2 year: 86,522\n3 year: 402,408\n\nInterest rate: 4%\n1 year: 30,746\n2 year: 236,334\n3 year: 1,816,606\n\nInterest rate: 5%\n1 year: 50,571\n2 year: 639,362\n3 year: 8,083,336\n\n\nSo you need to maintain a 3-5% interest every week, and you’ll be rich after 3 years."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "slides/health-econ-perspectives/index.html",
+    "href": "slides/health-econ-perspectives/index.html",
+    "title": "An overview of the perspectives used in health economic evaluations",
+    "section": "",
+    "text": "Based on the paper An overview of the perspectives used in health economic evaluations\nManit Sittimart, Waranya Rattanavipapong, Andrew J Mirelman, Trinh Manh Hung, Saudamini Dabak, Laura E. Downey, Mark Jit, Yot Teerawattananon, Hugo C Turner*"
+  },
+  {
+    "objectID": "slides/health-econ-perspectives/index.html#origin",
+    "href": "slides/health-econ-perspectives/index.html#origin",
+    "title": "An overview of the perspectives used in health economic evaluations",
+    "section": "Origin",
+    "text": "Origin\nBased on the paper An overview of the perspectives used in health economic evaluations\nManit Sittimart, Waranya Rattanavipapong, Andrew J Mirelman, Trinh Manh Hung, Saudamini Dabak, Laura E. Downey, Mark Jit, Yot Teerawattananon, Hugo C Turner*"
+  },
+  {
+    "objectID": "slides/health-econ-perspectives/index.html#what-is-perspective",
+    "href": "slides/health-econ-perspectives/index.html#what-is-perspective",
+    "title": "An overview of the perspectives used in health economic evaluations",
+    "section": "What is perspective?",
+    "text": "What is perspective?\nPerspective determines which types of costs and outcomes are included within the analysis."
+  },
+  {
+    "objectID": "slides/health-econ-perspectives/index.html#patienthousehold-perspective",
+    "href": "slides/health-econ-perspectives/index.html#patienthousehold-perspective",
+    "title": "An overview of the perspectives used in health economic evaluations",
+    "section": "Patient/household perspective",
+    "text": "Patient/household perspective\nPatient: limited to the costs incurred by the patient\nHousehold: the costs incurred by all members of the household\nWhich includes:\n\nDirect medical costs paid by patients not covered by health insurance (out-of-pocket costs, co-payments, and deductibles)\nDirect non-medical costs (transport to health facilities)\nIndirect costs or potentially productivity costs (monetised productivity losses resulting from lost paid and unpaid work due to illness or intervention)"
+  },
+  {
+    "objectID": "slides/health-econ-perspectives/index.html#health-care-payer-or-payer-perspective",
+    "href": "slides/health-econ-perspectives/index.html#health-care-payer-or-payer-perspective",
+    "title": "An overview of the perspectives used in health economic evaluations",
+    "section": "Health care payer or payer perspective",
+    "text": "Health care payer or payer perspective\nHealth care payer: typically is a third party, such as a specific health organisation, specific control programme or agency that manages an insurance programme; in some settings there can be multiple relevant payers (such as multiple insurance programmes)\nWhich includes:\n\nDirect medical costs paid by health care payer: only the part of the organisation that the funds have been planned or budgeted for."
+  },
+  {
+    "objectID": "slides/health-econ-perspectives/index.html#health-care-provider-perspective",
+    "href": "slides/health-econ-perspectives/index.html#health-care-provider-perspective",
+    "title": "An overview of the perspectives used in health economic evaluations",
+    "section": "Health care provider perspective",
+    "text": "Health care provider perspective\nHealth care provider: can be the same as the health care payer in some contexts, but usually broader in its scope of costs included; give more complete picture of total costs and is used more often\nWhich includes:\n\nDirect medical costs paid by health care provider: broader than payer perspective"
+  },
+  {
+    "objectID": "slides/health-econ-perspectives/index.html#healthcare-sector-perspective",
+    "href": "slides/health-econ-perspectives/index.html#healthcare-sector-perspective",
+    "title": "An overview of the perspectives used in health economic evaluations",
+    "section": "Healthcare sector perspective",
+    "text": "Healthcare sector perspective\nHealthcare sector: similar but broader than health care provider that the direct medical costs are both incurred by specific third-party payers (such as national health services) and out-of-pocket payments made by patients; important in LMIC settings because where out-of-pocket payments by patients is significant.\nWhich includes:\n\nDirect medical costs paid by patients\nDirect medical costs paid by health care provider"
+  },
+  {
+    "objectID": "slides/health-econ-perspectives/index.html#health-system-perspective",
+    "href": "slides/health-econ-perspectives/index.html#health-system-perspective",
+    "title": "An overview of the perspectives used in health economic evaluations",
+    "section": "Health system perspective",
+    "text": "Health system perspective\nHealth system (WHO-CHOICE guidelines definition): an ensemble of actions and actors whose primary intent is to improve human health; therefore includes all direct, market-valued costs, whether public or private, that are required to deliver the intervention, regardless of payer.\nWhich includes:\n\nDirect medical costs paid by patients\nDirect medical costs paid by health care provider"
+  },
+  {
+    "objectID": "slides/health-econ-perspectives/index.html#societal-perspective",
+    "href": "slides/health-econ-perspectives/index.html#societal-perspective",
+    "title": "An overview of the perspectives used in health economic evaluations",
+    "section": "Societal perspective",
+    "text": "Societal perspective\nSocietal: the broadest and includes all healthcare-related costs, other “relevant” non-health-related impacts in other sectors such as social services, education, legal or criminal justice, environment…\n\nLimited societal perspective: excludes any impacts affecting non-healthcare sectors\nNon-limited societal perspective: includes at least one of other non-healthcare sectors"
+  }
+]

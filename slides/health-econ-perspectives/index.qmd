@@ -1,0 +1,68 @@
+---
+title: "An overview of the perspectives used in health economic evaluations"
+---
+
+## Origin
+
+Based on the paper **An overview of the perspectives used in health economic evaluations**
+
+Manit Sittimart, Waranya Rattanavipapong, Andrew J Mirelman, Trinh Manh Hung, Saudamini Dabak, Laura E. Downey, Mark Jit, Yot Teerawattananon, Hugo C Turner*
+
+## What is perspective?
+
+Perspective determines which types of costs and outcomes are included within the analysis.
+
+## Patient/household perspective
+
+**Patient**: limited to the costs incurred by the patient
+
+**Household**: the costs incurred by all members of the household
+
+Which includes:
+
+1. **Direct medical costs paid by patients** not covered by health insurance (out-of-pocket costs, co-payments, and deductibles)
+2. **Direct non-medical costs** (transport to health facilities)
+3. **Indirect costs** or potentially productivity costs (monetised productivity losses resulting from lost paid and unpaid work due to illness or intervention)
+
+## Health care payer or payer perspective
+
+**Health care payer**: typically is a third party, such as a specific health organisation, specific control programme or agency that manages an insurance programme; in some settings there can be multiple relevant payers (such as multiple insurance programmes)
+
+Which includes:
+
+1. **Direct medical costs paid by health care payer**: only the part of the organisation that the funds have been planned or budgeted for.
+
+## Health care provider perspective
+
+**Health care provider**: can be the same as the health care payer in some contexts, but usually broader in its scope of costs included; give more complete picture of total costs and is used more often
+
+Which includes:
+
+1. **Direct medical costs paid by health care provider**: broader than payer perspective
+
+## Healthcare sector perspective
+
+**Healthcare sector**: similar but broader than health care provider that the direct medical costs are both incurred by specific third-party payers (such as national health services) and out-of-pocket payments made by patients; important in LMIC settings because where out-of-pocket payments by patients is significant.
+
+Which includes:
+
+1. **Direct medical costs paid by patients**
+2. **Direct medical costs paid by health care provider**
+
+## Health system perspective
+
+**Health system** (WHO-CHOICE guidelines definition): an ensemble of actions and actors whose primary intent is to improve human health; therefore includes all direct, market-valued costs, whether public or private, that are required to deliver the intervention, regardless of payer.
+
+Which includes:
+
+1. **Direct medical costs paid by patients**
+2. **Direct medical costs paid by health care provider**
+
+## Societal perspective
+
+**Societal**: the broadest and includes all healthcare-related costs, other “relevant” non-health-related impacts in other sectors such as social services, education, legal or criminal justice, environment...
+
+* ***Limited*** societal perspective: excludes any impacts affecting non-healthcare sectors
+* ***Non-limited*** societal perspective: includes at least one of other non-healthcare sectors
+
+
