@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "slides/health-econ-perspectives/index.html",
-    "href": "slides/health-econ-perspectives/index.html",
-    "title": "An overview of the perspectives used in health economic evaluations",
-    "section": "",
-    "text": "Based on the paper An overview of the perspectives used in health economic evaluations\nManit Sittimart, Waranya Rattanavipapong, Andrew J Mirelman, Trinh Manh Hung, Saudamini Dabak, Laura E. Downey, Mark Jit, Yot Teerawattananon, Hugo C Turner*"
-  },
-  {
     "objectID": "slides/health-econ-perspectives/index.html#origin",
     "href": "slides/health-econ-perspectives/index.html#origin",
     "title": "An overview of the perspectives used in health economic evaluations",
-    "section": "",
-    "text": "Based on the paper An overview of the perspectives used in health economic evaluations\nManit Sittimart, Waranya Rattanavipapong, Andrew J Mirelman, Trinh Manh Hung, Saudamini Dabak, Laura E. Downey, Mark Jit, Yot Teerawattananon, Hugo C Turner*"
+    "section": "Origin",
+    "text": "Origin\nBased on the paper An overview of the perspectives used in health economic evaluations\nManit Sittimart, Waranya Rattanavipapong, Andrew J Mirelman, Trinh Manh Hung, Saudamini Dabak, Laura E. Downey, Mark Jit, Yot Teerawattananon, Hugo C Turner*"
   },
   {
     "objectID": "slides/health-econ-perspectives/index.html#what-is-perspective",
@@ -63,11 +56,11 @@
     "text": "Societal perspective\nSocietal: the broadest and includes all healthcare-related costs, other “relevant” non-health-related impacts in other sectors such as social services, education, legal or criminal justice, environment…\n\nLimited societal perspective: excludes any impacts affecting non-healthcare sectors\nNon-limited societal perspective: includes at least one of other non-healthcare sectors"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Compound interest",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Let \\(P_0\\) is the initial balance, \\(r\\) is the interest rate in 1 week. The amount of money after 1 week is:\n\\[P_1 = P_0 \\times (1 + r)\\]\nAfter 2 weeks\n\\[P_2 = P_1 \\times (1 + r) = P_0 \\times (1 + r) \\times (1 + r)\\]\n\\[P_2 = P_0 \\times (1 + r)^2\\]\nAfter t weeks\n\\[P_t = P_0 \\times (1 + r)^t\\]\nThere is a trader who is very good at trading. He start with $4000. Every week he earns 5% interest. In a year (52 weeks) he will earn:\n\\[P_\\text{1 year} = P_0 \\times (1 + 0.05)^{52} = 12.6 \\times P_0\\]\nAfter 2 years (104 weeks):\n\\[P_\\text{2 years} = P_0 \\times (1 + 0.05)^{104} = 159.8 \\times P_0\\]\nIf the interest rate is 5%, let vary the interest rate from 3-5%:\n\n\nInterest rate: 3%\n1 year: 18,603\n2 year: 86,522\n3 year: 402,408\n\nInterest rate: 4%\n1 year: 30,746\n2 year: 236,334\n3 year: 1,816,606\n\nInterest rate: 5%\n1 year: 50,571\n2 year: 639,362\n3 year: 8,083,336\n\n\nSo you need to maintain a 3-5% interest every week, and you’ll be rich after 3 years."
   },
   {
     "objectID": "about.html",
@@ -77,17 +70,17 @@
     "text": "About this blog"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Compound interest",
-    "section": "",
-    "text": "Let \\(P_0\\) is the initial balance, \\(r\\) is the interest rate in 1 week. The amount of money after 1 week is:\n\\[P_1 = P_0 \\times (1 + r)\\]\nAfter 2 weeks\n\\[P_2 = P_1 \\times (1 + r) = P_0 \\times (1 + r) \\times (1 + r)\\]\n\\[P_2 = P_0 \\times (1 + r)^2\\]\nAfter t weeks\n\\[P_t = P_0 \\times (1 + r)^t\\]\nThere is a trader who is very good at trading. He start with $4000. Every week he earns 5% interest. In a year (52 weeks) he will earn:\n\\[P_\\text{1 year} = P_0 \\times (1 + 0.05)^{52} = 12.6 \\times P_0\\]\nAfter 2 years (104 weeks):\n\\[P_\\text{2 years} = P_0 \\times (1 + 0.05)^{104} = 159.8 \\times P_0\\]\nIf the interest rate is 5%, let vary the interest rate from 3-5%:\n\n\nInterest rate: 3%\n1 year: 18,603\n2 year: 86,522\n3 year: 402,408\n\nInterest rate: 4%\n1 year: 30,746\n2 year: 236,334\n3 year: 1,816,606\n\nInterest rate: 5%\n1 year: 50,571\n2 year: 639,362\n3 year: 8,083,336\n\n\nSo you need to maintain a 3-5% interest every week, and you’ll be rich after 3 years."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "drafts",
     "section": "",
     "text": "Compound interest\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 23, 2023\n\n\nThinh Ong\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   }
 ]
